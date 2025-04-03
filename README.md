@@ -1,5 +1,9 @@
 # Sistema de Gestión de Proyectos en Haskell
 
+## Integrantes del equipo:
+- Ríos Cruz Roberto Javier
+- Pérez Santos Jesús Manuel
+
 Este proyecto implementa un sistema de gestión de proyectos, tareas y empleados utilizando principios de programación funcional en Haskell. El sistema es completamente inmutable y utiliza tipos algebraicos para representar datos y manejar errores.
 
 ## Estructura del Proyecto
